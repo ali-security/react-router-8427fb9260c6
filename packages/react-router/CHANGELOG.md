@@ -1,5 +1,11 @@
 # `react-router`
 
+## v7.18.6
+
+### Patch Changes
+
+- Preserve route parameters ending in `.data` in single fetch loader and action requests when `future.v8_passThroughRequests` is disabled. ([#15734](https://github.com/remix-run/react-router/pull/15734))
+
 ## v7.18.5
 
 ### Patch Changes
